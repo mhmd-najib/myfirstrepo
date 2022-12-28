@@ -1,2 +1,2 @@
 # myfirstrepo
-My First Repository
+This is my first GitHub Repository, courtesy of Coursera
